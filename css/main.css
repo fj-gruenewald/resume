@@ -75,7 +75,7 @@ body {
 }
 
 body {
-  background: #22272E;
+  background: #1C1C1C;
   font-family: "Nunito Sans", sans-serif;
   font-size: 1.7rem;
   font-style: normal;
@@ -312,8 +312,8 @@ code {
   margin: 0 .2rem;
   padding: .3rem .6rem;
   white-space: nowrap;
-  background: #22272E;
-  border: 1px solid #22272E;
+  background: #1C1C1C;
+  border: 1px solid #1C1C1C;
   color: rgba(255, 255, 255, 0.7);
   border-radius: 3px;
 }
@@ -3603,7 +3603,7 @@ html.no-csstransitions .home-content__main {
 .s-contact {
   padding-top: 16.2rem;
   padding-bottom: 21rem;
-  background-color: #5e3080;
+  background-color: #1C1C1C;
   color: rgba(255, 255, 255, 0.6);
   text-align: center;
   position: relative;
@@ -3626,7 +3626,7 @@ html.no-csstransitions .home-content__main {
 }
 
 .s-contact .subhead {
-  color: #2a1538;
+  color: #1C1C1C;
 }
 
 .s-contact .section-header,
