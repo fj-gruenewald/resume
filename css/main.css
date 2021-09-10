@@ -2731,7 +2731,7 @@ html.no-csstransitions .home-content__main {
 .s-about {
   padding-top: 18rem;
   padding-bottom: 18rem;
-  background-color: #22272E;
+  background-color: #1C1C1C;
   position: relative;
 }
 
@@ -3852,7 +3852,7 @@ footer a {
 
 .ss-go-top a {
   color: #FFFFFF;
-  background-color: #351b48;
+  background-color: #373E47;
   text-align: center;
   font-family: "Montserrat", sans-serif;
   font-weight: 700;
@@ -3891,7 +3891,7 @@ footer a {
 
 .ss-go-top a:hover,
 .ss-go-top a:focus {
-  background-color: #2d173d;
+  background-color: #373E47;
 }
 
 /* ------------------------------------------------------------------- 
